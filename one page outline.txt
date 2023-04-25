@@ -1,0 +1,25 @@
+Project title:
+
+
+Team members:
+Robert Erick
+Peter Stine
+Jess Nguyen
+Kieran
+
+
+Project description/outline:
+
+
+
+Research questions to answer:
+
+
+
+Datasets to be used:
+
+API:  we will use geoapify
+
+
+
+Rough breakdown of tasks:
