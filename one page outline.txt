@@ -23,3 +23,12 @@ API:  we will use geoapify
 
 
 Rough breakdown of tasks:
+
+
+
+
+
+first 3 questions
+what domain
+what data sets
+split work
