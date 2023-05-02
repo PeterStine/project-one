@@ -34,6 +34,7 @@ https://dnr.mo.gov/water/business-industry-other-entities/technical-assistance-g
 news article about lead pipes in missouri
 https://missouriindependent.com/2023/04/06/epa-estimates-more-than-200000-lead-pipes-remain-in-missouri/
 
-epa discharge data
-start here
-https://www.epa.gov/enviro/tri-ez-search
+these are missouri superfund lead sites
+https://dnr.mo.gov/waste-recycling/sites-regulated-facilities/superfund/lead
+is there a correlation between their location and violence?
+https://en.wikipedia.org/wiki/List_of_Superfund_sites_in_Missouri
