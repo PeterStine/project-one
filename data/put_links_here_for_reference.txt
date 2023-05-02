@@ -21,3 +21,15 @@ https://apidocs.geoapify.com/docs/places/#about
 
 mayo clinic
 https://www.mayoclinic.org/diseases-conditions/lead-poisoning/diagnosis-treatment/drc-20354723
+
+missouri seems to have the highest coorelation within the state data
+can we find a better relationship?
+fbi data regarding violent crime in missouri
+https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/tables/table-6/table-6-state-cuts/missouri.xls
+
+can we coorelate the data above with these spreadsheets inventorying lead service lines in missour found here?
+https://dnr.mo.gov/water/business-industry-other-entities/technical-assistance-guidance/lead-service-lines/inventory
+
+
+news article about lead pipes in missouri
+https://missouriindependent.com/2023/04/06/epa-estimates-more-than-200000-lead-pipes-remain-in-missouri/
